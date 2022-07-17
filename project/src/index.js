@@ -14,6 +14,10 @@ import img10 from "./images/img10.png"
 import img11 from "./images/img11.png"
 import img12 from "./images/img12.png"
 import reportWebVitals from './reportWebVitals';
+import { Navbar } from 'react-bootstrap';
+import Navbar1 from './Component/Navbar'
+
+
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 let cards={
